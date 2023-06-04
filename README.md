@@ -5,7 +5,7 @@ Make short link by using [Pdisk](https://www.cofilink.com/use-api/) API key
 #### The Easy Way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 ##### Required Variables
 
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
